@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\Lista Doblemente Enlazada\Lista Doblemente Enlazada\bin\Debug\Lista Doblemente Enlazada.exe.config
+C:\Users\USER\OneDrive\Desktop\Lista Doblemente Enlazada\Lista Doblemente Enlazada\bin\Debug\Lista Doblemente Enlazada.exe
+C:\Users\USER\OneDrive\Desktop\Lista Doblemente Enlazada\Lista Doblemente Enlazada\bin\Debug\Lista Doblemente Enlazada.pdb
+C:\Users\USER\OneDrive\Desktop\Lista Doblemente Enlazada\Lista Doblemente Enlazada\obj\Debug\Lista Doblemente Enlazada.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Lista Doblemente Enlazada\Lista Doblemente Enlazada\obj\Debug\Lista Doblemente Enlazada.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Lista Doblemente Enlazada\Lista Doblemente Enlazada\obj\Debug\Lista Doblemente Enlazada.exe
+C:\Users\USER\OneDrive\Desktop\Lista Doblemente Enlazada\Lista Doblemente Enlazada\obj\Debug\Lista Doblemente Enlazada.pdb
